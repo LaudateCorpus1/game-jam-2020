@@ -6,7 +6,7 @@ name = "pypi"
 [packages]
 arcade = "==2.3.15"
 pymunk = "==5.6.0"
-Pillow = "==7.*"
+Pillow = "==9.*"
 
 [dev-packages]
 
